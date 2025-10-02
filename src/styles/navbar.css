@@ -1,0 +1,25 @@
+header{
+    width: 100%;
+     padding: 0px 25%;
+
+}    
+#navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.logo img{
+    
+    width: 160px;
+    height: auto;
+    align-items: center;
+    padding right: 30px;
+}
+.nav_list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 48px;
+}
